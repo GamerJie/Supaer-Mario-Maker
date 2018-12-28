@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scripts/scenes/menu.gd" type="Script" id=1]
+
+[node name="menu" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+
+[node name="play_btn" type="TextureButton" parent="."]
+margin_left = 830.893
+margin_top = 394.585
+margin_right = 1036.89
+margin_bottom = 542.585
+
+[node name="create_btn" type="TextureButton" parent="."]
+margin_left = 375.662
+margin_top = 402.309
+margin_right = 581.662
+margin_bottom = 549.309
+

@@ -1,0 +1,31 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Toad and Peach NSMBU.png-57eb4efa81c6564b6f3baea27c9b9324.stex"
+
+[deps]
+
+source_file="res://images/character/Toad and Peach NSMBU.png"
+dest_files=[ "res://.import/Toad and Peach NSMBU.png-57eb4efa81c6564b6f3baea27c9b9324.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
